@@ -1,4 +1,4 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import './App.css'
 import HumidityIcon from './assets/icons/HumidityIcon'
 import SearchIcon from './assets/icons/SearchIcon'
