@@ -34,7 +34,7 @@ function App() {
         </nav>
         <div className='text-center flex flex-col items-center gap-4 pt-9'>
           <div className='h-40'>
-            <img className='h-full object-cover' src="../img/sun.png" alt="" />
+            <img className='h-full object-cover' src="https://arslanata.github.io/weather-appgit/img/sun.png" alt="" />
           </div>
           <h1 className='text-4xl text-white'>{data?.main.temp}&deg;C</h1>
           <h1 className='text-xl text-white'>{data?.weather[0].main}</h1>
